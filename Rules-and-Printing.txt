@@ -1,0 +1,41 @@
+ECHO: GATES OF THE HIDDEN SEED
+An original two-player tabletop card game by Brian Chapman / ECHO.
+First edition prototype. Card effects and costs have not been playtested for balance.
+
+GOAL
+Reduce your opponent's Gate from 25 health to 0. Use a die, paper or counters to track health and Energy. Gate health cannot exceed 25. These counters are not included as cards.
+
+DECKS AND SETUP
+This box contains 72 unique fronts: 36 Monsters, 18 Abilities, 12 Relics and 6 Locations, plus a common back. Split the set into two 36-card decks using the Starter A and Starter B lists in the catalog. Each deck has 18 Monsters, 9 Abilities, 6 Relics and 3 Locations. Shuffle separately. Each player draws 5 cards. Once, before play, you may put any number of those cards on the bottom of your deck and draw that many replacements; then shuffle. Randomly choose the first player.
+
+Each player has a battlefield with up to 4 Monsters, 2 Relics and 1 Location. Discard piles are face up. Banished cards stay outside the game. A full Monster row prevents you from playing another Monster. Before playing a Relic or Location into a full slot, discard an existing card of that type. You cannot voluntarily discard a Monster to make space.
+
+TURN ORDER
+1. READY: Increase your maximum Energy by 1 (starting at 0, up to 8), refill your current Energy to that maximum and ready your Monsters. A stunned Monster skips this ready step and loses its stun marker. Resolve your 'start of your turn' effects in any order you choose, after readying and before drawing.
+2. DRAW: Draw 1 card. The first player skips this draw on their first turn. If you must draw from an empty deck, take 2 Gate damage per missing card instead. This also applies to card effects. Looking at or selecting from an empty deck does not cause damage.
+3. ACTION: Play cards and attack in any order. Pay each card's Energy cost. You may act again after each complete effect or combat. There are no reactions or actions on the other player's turn. Cost reductions stack, but cannot reduce a cost below 1; add any enemy cost increases afterward. The printed cost is used for all 'costing X' conditions.
+4. END: End temporary effects marked 'until the end of this turn.' Discard down to 7 cards in hand. Unspent Energy is lost; maximum Energy remains. Pass the turn.
+
+PLAYING CARDS
+Monsters enter exhausted and cannot attack that turn unless they have Haste. Turn an attacking Monster sideways to show it is exhausted. A Monster with Haste enters ready. Exhausted Monsters can still defend. 'When played' effects happen once after the card enters play, and only if played from hand. A Monster may attack only once each turn, even if an effect readies it.
+
+Abilities resolve and go to the discard pile. Select targets before paying. If there is no legal target, the card cannot be played. Relics and Locations remain on your battlefield and affect only you unless their text says otherwise. Their 'when played' effects happen once. Playing another copy is not part of this unique-card set.
+
+COMBAT
+Choose one ready Monster you control and exhaust it. If your opponent controls any Monsters, choose one of those as the defender. Otherwise attack the enemy Gate directly. You cannot bypass enemy Monsters. Calculate each combatant's current Attack and Defense, including modifiers. Each simultaneously deals damage equal to its Attack to the other. If this damage meets or exceeds the recipient's Defense, destroy that recipient. Both may be destroyed. Damage does not persist between combats; every surviving Monster returns to its full Defense immediately after combat. Gate attacks subtract the attacker's current Attack from Gate health. Gates never counterattack. Direct damage from card effects can hit a Gate even when Monsters defend it, and does not count as an attack.
+
+TERMS AND EDGE CASES
+Defending: a Monster is defending only when chosen as a combat target. Apply 'while defending' bonuses only for that combat. Gate damage reduction applies only to attacks, never direct card damage. Multiple reductions add; damage cannot go below 0.
+Stun: exhaust the target and mark it. It skips its next ready step, then remove the mark. Additional stun before that step does not add extra skipped turns. Stunned Monsters can defend.
+Destroy: move a card from the battlefield to its owner's discard pile. 'Destroyed in combat' excludes abilities and Defense dropping to 0. Banish: move outside the game; this is not destruction. Return to hand: remove all temporary effects, stun and exhaustion markers from that card.
+If current Defense becomes 0 or less, destroy that Monster immediately. Attack cannot fall below 0. Ongoing bonuses end immediately when their source leaves play; then check Defense again.
+Draw then discard: resolve in order. Discard only as many cards as you hold. 'Keep 1' from a look effect puts that card into your hand; put the rest on the bottom in any order. If fewer cards exist, look at all available cards. Looking, revealing and selecting are not draws.
+Optional effects use 'may.' Otherwise carry out as much as possible. An explicitly targeted Ability needs a legal target; a permanent's entry effect simply does nothing if it has no legal target. Your own turn's start effects are resolved one at a time in your chosen order.
+Check Gate health after each complete effect or combat. A player at 0 or less loses. If both reach 0 from the same effect, the game is a draw. Stop resolving later start-of-turn effects once the game has ended.
+
+PRINT AND UPLOAD
+Use traditional poker cards, finished size 2.5 x 3.5 inches. Each JPG is 822 x 1122 pixels tagged 300 DPI, following the MakePlayingCards upload size. The outer 36 pixels on each edge are bleed; the inner 750 x 1050 pixels are the nominal trim. Keep the selected printer's preview as the final authority: never stretch images to fill an unexpected template.
+Upload fronts/01 through fronts/72 in order; use backs/ECHO-Common-Back.jpg for every reverse. The front filenames include the card number and title. Do not upload the overview sheets as card faces. Do not print the included HTML catalog as cards.
+The artwork was generated in multi-scene atlases, cropped and resampled into card layouts. Export dimensions meet the selected template, but some illustration detail is upscaled; inspect the JPGs at actual size and order a physical proof before a larger run. Text is rendered separately from the art for consistent spelling and legibility. These are prototype game cards, not a professionally proofed or playtested commercial edition.
+Printer reference: https://www.makeplayingcards.com/pops/faq-photo.html
+Template and safe-area reference: https://www.makeplayingcards.com/design/custom-blank-card-traditional-size.html
